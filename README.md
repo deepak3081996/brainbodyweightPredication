@@ -1,5 +1,5 @@
 # brainbodyweightPredication
-Simple Linear Regression with one independent variable
+Simple Linear Regression
 
 
 About Dataset
